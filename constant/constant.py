@@ -1,0 +1,5 @@
+HOST="localhost"
+PORT="3306"
+DB_USERNAME="admin"
+DB_PASSWORD="notadmin"
+DB_NAME="adminnotadmin"
